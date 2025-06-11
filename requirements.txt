@@ -1,0 +1,9 @@
+requests
+pyautogui
+psutil
+openai-whisper
+speechrecognition
+pyaudio
+tk
+vosk
+sounddevice
