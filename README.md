@@ -1,6 +1,6 @@
 # Bob - OS Assistant
 
-Bob is a local offline voice assistant built with Python. It can:
+Bob is a local offline llm-based assistant built with Python. It can:
 - Launch applications
 - Search the web
 - Control Spotify
