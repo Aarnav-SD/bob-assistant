@@ -27,4 +27,4 @@ To remove bob run:
 ```bash
 ollama rm bob
 ```
-To edit bob's behaviour change the prompt present in the SYSTEM """<prompt>""" of Modelfile
+To edit bob's behaviour change the prompt present in the SYSTEM """{prompt}""" of Modelfile
